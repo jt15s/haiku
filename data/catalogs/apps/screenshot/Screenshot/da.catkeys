@@ -1,5 +1,5 @@
-1	danish	x-vnd.haiku-screenshot	3958461128
-Include window border	ScreenshotWindow		Inkluder vindueskant
+1	danish	x-vnd.haiku-screenshot-cli	3958461128
+Include window border	ScreenshotWindow		Medtag vindueskant
 Overwrite	ScreenshotWindow		Overskriv
 Save in:	ScreenshotWindow		Gem i:
 Error saving \"%s\":\n\t%s	ScreenshotWindow		Fejl ved gemning af \"%s\":\n\t%s
@@ -13,18 +13,18 @@ New screenshot	ScreenshotWindow		Nyt skærmbillede
 Screenshot	System name		Skærmbillede
 Desktop	ScreenshotWindow		Skrivebord
 Artwork folder	ScreenshotWindow		Kunstmappe
-Translator Settings	ScreenshotWindow		Oversættelsesindstillinger
-Include mouse pointer	ScreenshotWindow		Inkluder musemarkør
+Translator Settings	ScreenshotWindow		Oversætterindstillinger
+Include mouse pointer	ScreenshotWindow		Medtag musemarkør
 overwrite	ScreenshotWindow		overskriv
-Settings…	ScreenshotWindow		Indstillinger…
+Settings…	ScreenshotWindow		Indstillinger …
 Choose folder	ScreenshotWindow		Vælg mappe
 Name:	ScreenshotWindow		Navn:
-Choose folder…	ScreenshotWindow		Vælg mappe…
+Choose folder…	ScreenshotWindow		Vælg mappe …
 Please select	ScreenshotWindow		Vælg venligst
 Failed to save screenshot	ScreenshotWindow		Kunne ikke gemme skærmbillede
 Cancel	ScreenshotWindow		Annuller
 Delay:	ScreenshotWindow		Forsinkelse:
-Copy to clipboard	ScreenshotWindow		Kopiér til udklipsholderen
+Copy to clipboard	ScreenshotWindow		Kopiér til udklipsholder
 screenshot	Screenshot	Base filename of screenshot files	skærmbillede
 Home folder	ScreenshotWindow		Hjemmemappe
 Save	ScreenshotWindow		Gem
